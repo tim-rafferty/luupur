@@ -1,4 +1,4 @@
-# luupur
+# Luupur
 
 Generative groove machine with included looper and sampler.
 
